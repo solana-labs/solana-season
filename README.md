@@ -13,6 +13,8 @@ Solana is a fast, low-fee, and censorship-resistant blockchain designed to enabl
 
 As long as you have an Internet connection, you're invited to join the global hackathon! In addition, if you are located in China, Eastern Europe (CIS region), India, or Brazil, you're eligible for regional prizes (see prize tracks below). While participants are encouraged to build novel crypto apps, hackers can build infrastructure or any tool they believe will have an impact on the Solana ecosystem. The only requirement is that teams must incorporate Solana into their project in some way. Take a look at this list of [hackathon project ideas]().
 
+Throughout the registration period and hackathon, there will be live-streamed presentations, workshops, and panels on a variety of crypto-related topics. See the full schedule here, and make sure to join a few sessions on Twitch!
+
 ## Get Started Building
 
 - [Solana Documentation](https://docs.solana.com/)
@@ -50,29 +52,54 @@ Participants may submit a maximum of 1 project by the hackathon deadline. Once a
 
 After judges complete individual evaluations, the hackathon organizers will discuss with the judges to choose the winners based on the project's weighted scores. Winners of the event will be announced shortly after the end of the hackathon.
 
-There are 3 global prize tracks: DeFi, NFTs, and Web3. There will be a 1st, 2nd, and 3rd place winner in each of those categories. In addition, there are sponsored prizes by supporting projects including Serum, Kin, Raydium, and Pyth. And finally, as mentioned above, there are regional prize pools for teams submitting from China, Eastern Europe, India, and Brazil. 
+There are 3 global prize tracks: DeFi, NFTs, and Web3. There will be a 1st, 2nd, and 3rd place winner in each of those categories. In addition, there are sponsored prizes by supporting projects including Serum, Kin, Raydium, and Pyth for teams that best integrate with their respective technologies. And finally, as mentioned above, there are regional prize pools for teams submitting from China, Eastern Europe, India, and Brazil. 
 
 **Prizes**
+All prize amounts will be distributed in USDC-SPL.
 
-| Place                                  | Prize                                   |
+| Global                                  | Prize                                   |
 | -------------------------------------- | --------------------------------------- |
-| Grand Prize Winner                     | $30k in seed funding                   |
-| First Place Winners                    | 2 winners up to $50k each + Solana Swag |
-| Second Place Winners                   | 3 teams of $20k each + Solana Swag      |
-| Third Place Winners                    | 4 teams of $10k each + Solana Swag      |
+| Grand Prize Winner                     | $30k                  |
+| DeFi                    | 1st Place $20k, 2nd place $15k, 3rd place $10k |
+| NFTs                   | 1st Place $20k, 2nd place $15k, 3rd place $10k |
+| Web3                   | 1st Place $20k, 2nd place $15k, 3rd place $10k |
 | Community Choice Prize                 | $5k + Solana Swag                       |
-| Torus Prize                            | $2k                                     |
-| All participants that submit a project | $100                                    |
+| Serum's Prize                            | $25k                                     |
+| Kin's Prize                            | $25k                                     |
+| Raydium's Prize                            | $10k                                     |
+| Pyth's Prize                            | $25k                                     |
 
-| Place                                  | Prize                                   |
+## Regional Prize Pools
+
+| China: Serum + Raydium Track                                  | Prize                                   |
 | -------------------------------------- | --------------------------------------- |
-| Grand Prize Winner                     | $30k in seed funding                   |
-| First Place Winners                    | 2 winners up to $50k each + Solana Swag |
-| Second Place Winners                   | 3 teams of $20k each + Solana Swag      |
-| Third Place Winners                    | 4 teams of $10k each + Solana Swag      |
-| Community Choice Prize                 | $5k + Solana Swag                       |
-| Torus Prize                            | $2k                                     |
-| All participants that submit a project | $100                                    |
+| 1st Place                     | $25k                  |
+| 2nd Place                    | $15k |
+| 3rd Place                   | $10k      |
+| Dorahacks Quadractic Vote Prize               | $50k                  |
+| Serum Prize                            | $50k                                     |
+| Raydium Prize                            | $20k                                     |
+
+| Eastern Europe: Hacken Track                                  | Prize                                   |
+| -------------------------------------- | --------------------------------------- |
+| 1st Place                     | $25k                  |
+| 2nd Place                    | $15k |
+| 3rd Place                   | $10k      |
+| Serum Prize                            | $50k                                     |
+| Velas Prize                            | $20k                                     |
+| HAPI Prize                            | $20k                                     |
+
+| India: CoinDCX + Devfolio Track                                  | Prize                                   |
+| -------------------------------------- | --------------------------------------- |
+| 1st Place                     | $25k                  |
+| 2nd Place                    | $15k |
+| 3rd Place                   | $10k      |
+
+| Brazil: BRZ Track                                  | Prize                                   |
+| -------------------------------------- | --------------------------------------- |
+| 1st Place                     | $15k                  |
+| 2nd Place                    | $7k |
+| 3rd Place                   | $3k      |
 
 ## Discord Discussion Channels
 
