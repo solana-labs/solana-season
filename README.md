@@ -9,7 +9,7 @@
 
 ## Introduction
 
-Solana is a fast, low-fee, and censorship-resistant blockchain designed to enable builders to quickly deploy and scale applications to billions of users globally. The Solana Foundation is excited to host its 3rd virtual hackathon focused on allowing developers to experiment and leverage the Solana blockchain to create a plethora of projects spanning DeFi (Decentralized Finance), NFTs, and Web 3.
+Solana is a fast, low-fee, and censorship-resistant blockchain designed to enable builders to quickly deploy and scale applications to billions of users globally. The Solana Foundation is excited to host its 3rd virtual hackathon focused on allowing developers to experiment and leverage the Solana blockchain to create a plethora of projects spanning DeFi (Decentralized Finance), NFTs, and Web3.
 
 As long as you have an Internet connection, you're invited to join the global hackathon! In addition, if you are located in China, Eastern Europe (CIS region), India, or Brazil, you're eligible for regional prizes (see prize tracks below). While participants are encouraged to build novel crypto apps, hackers can build infrastructure or any tool they believe will have an impact on the Solana ecosystem. The only requirement is that teams must incorporate Solana into their project in some way. Take a look at this list of [hackathon project ideas]().
 
@@ -17,28 +17,35 @@ Throughout the registration period and hackathon, there will be live-streamed pr
 
 ## Get Started Building
 
-- [Solana Documentation](https://docs.solana.com/)
-- [Solana Dapp Scaffolding](https://github.com/solana-labs/dapp-scaffold)
+### Solana Docs
+- [Solana Docs - Home](https://docs.solana.com/)
+- [Solana Docs - Programming Model](https://docs.solana.com/developing/programming-model/overview)
+- [Solana Program Library Docs](https://spl.solana.com/)
+- [Wormhole Documentation: Ethereum<>Solana bi-directional bridge](https://github.com/certusone/wormhole)
+
+### Walkthroughs
 - [Intro to Programming on Solana](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/)
-- [Serum Developer Resources](https://serum-academy.com/en/developer-resources/)
-- [Guide for building on Serum](https://github.com/project-serum/anchor)
-- [Solana Cluster Overview](https://docs.solana.com/cluster/overview)
-- [Getting started with Rust](https://www.rust-lang.org/learn)
-- [Solana Program Library Documentation](https://spl.solana.com/)
+- [Development Tutorial by Solong](https://solongwallet.medium.com/solana-development-tutorial-things-you-should-know-before-structuring-your-code-807f0e2ee43)
+
+### Examples and Reference Implementations
 - [Hello World Example](https://github.com/solana-labs/example-helloworld)
-- [Discord Support Chat](https://discord.gg/uNHzdyZRMB): Live technical support and help
-- [Find a teammate directory]()
-
-## Other Resources + DeFi Building Blocks
-
 - [Automated Market Maker + Swap Reference Implementation](https://github.com/solana-labs/oyster-swap)
 - [Borrow/Lend Reference Implementation](https://github.com/solana-labs/oyster-lending)
 - [Margin Reference Implementation](https://github.com/solana-labs/oyster-margin)
-- [Wormhole Documentation: Ethereum<>Solana bi-directional bridge](https://github.com/certusone/wormhole)
 - [Chainlink<>Solana Oracle Implementation](https://github.com/octopus-network/solana-flux-aggregator)
+
+### Development Frameworks
+- [Solana Dapp Scaffolding](https://github.com/solana-labs/dapp-scaffold)
 - [Full Stack dApp Development Environment by Decentology](https://dappstarter.decentology.com/)
+
+### Project Serum Resources
+- [Serum Developer Resources](https://serum-academy.com/en/developer-resources/)
 - [List tokens on the Serum DEX](https://serum-academy.com/en/add-market/)
-- [Solana Development Tutorial](https://solongwallet.medium.com/solana-development-tutorial-things-you-should-know-before-structuring-your-code-807f0e2ee43)
+- [Anchor Framework by Project Serum](https://github.com/project-serum/anchor)
+
+## Engage with the Community
+- [Discord Support Chat](https://discord.gg/uNHzdyZRMB): Live technical support and help
+- [Find a teammate directory]()
 
 ## Judging
 
@@ -59,7 +66,7 @@ All prize amounts will be distributed in USDC-SPL.
 
 | Global                                  | Prize                                   |
 | -------------------------------------- | --------------------------------------- |
-| Grand Prize Winner                     | $30k & airfare+tickets to Solana's conference in Lisbon, Portugal                 |
+| Grand Prize Winner                     | $30k + all expenses paid trip to Solana's conference in Lisbon, Portugal                 |
 | DeFi                    | 1st Place $20k, 2nd place $15k, 3rd place $10k |
 | NFTs                   | 1st Place $20k, 2nd place $15k, 3rd place $10k |
 | Web3                   | 1st Place $20k, 2nd place $15k, 3rd place $10k |
