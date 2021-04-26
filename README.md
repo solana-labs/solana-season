@@ -2,7 +2,7 @@
 
 #### Jumpstart your next project on Solana & join the fastest growing ecosystem in crypto
 
-- Hackathon dates: May 15, 2021 | 11:59pm PT
+- Hackathon dates: May 15 - June 7, 2021
 - Type: Online and global
 - Register now: [Official Website](https://solana.com/solanaszn)
 - More details: [Announcement Blog Post]()
@@ -50,7 +50,7 @@ Participants may submit a maximum of 1 project by the hackathon deadline. Once a
 
 After judges complete individual evaluations, the hackathon organizers will discuss with the judges to choose the winners based on the project's weighted scores. Winners of the event will be announced shortly after the end of the hackathon.
 
-Once winners have been selected, the top 9 teams will have the opportunity to compete for an additional $200k in seed funding. This gives serious builders a chance at jumping full-time into the Solana ecosystem and receive extensive resources from the Solana Foundation, Project Serum, and leading venture capital firms.
+There are 3 global prize tracks: DeFi, NFTs, and Web3. There will be a 1st, 2nd, and 3rd place winner in each of those categories. In addition, there are sponsored prizes by supporting projects including Serum, Kin, Raydium, and Pyth. And finally, as mentioned above, there are regional prize pools for teams submitting from China, Eastern Europe, India, and Brazil. 
 
 **Prizes**
 
@@ -82,7 +82,7 @@ Once winners have been selected, the top 9 teams will have the opportunity to co
 
 ## Code of Conduct
 
-The Soalna Season Hackathon welcomes any one from around the world to participate and is intended to create an inclusive environment for building, collaboration, creativity, and impact. We value the participation of each member of the community and want everyone involved to be respected. Accordingly, hackathon administrators, judges, and participants are expected to adhere to the Code of Conduct outlined below for the duration of the hackathon. Event organizers will enforce this code and have the right to disqualify any individual or team that breaks the code.
+The Solana Season Hackathon welcomes any one from around the world to participate and is intended to create an inclusive environment for building, collaboration, creativity, and impact. We value the participation of each member of the community and want everyone involved to be respected. Accordingly, hackathon administrators, judges, and participants are expected to adhere to the Code of Conduct outlined below for the duration of the hackathon. Event organizers will enforce this code and have the right to disqualify any individual or team that breaks the code.
 
 - Be Respectful: Be kind to all who participate in the event. Do not insult or put down other attendees.
 
