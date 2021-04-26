@@ -9,7 +9,7 @@
 
 ## Introduction
 
-Solana is a fast, low-fee, and censorship-resistant blockchain designed to enable builders to quickly deploy and scale applications to billions of users globally. The Solana Foundation is excited to host a hackathon focused on allowing developers to experiment and leverage the Solana blockchain to create a plethora of crypto projects spanning DeFi (Decentralized Finance), NFTs, and Web 3.
+Solana is a fast, low-fee, and censorship-resistant blockchain designed to enable builders to quickly deploy and scale applications to billions of users globally. The Solana Foundation is excited to host its 3rd virtual hackathon focused on allowing developers to experiment and leverage the Solana blockchain to create a plethora of projects spanning DeFi (Decentralized Finance), NFTs, and Web 3.
 
 As long as you have an Internet connection, you're invited to join the global hackathon! In addition, if you are located in China, Eastern Europe (CIS region), India, or Brazil, you're eligible for regional prizes (see prize tracks below). While participants are encouraged to build novel crypto apps, hackers can build infrastructure or any tool they believe will have an impact on the Solana ecosystem. The only requirement is that teams must incorporate Solana into their project in some way. Take a look at this list of [hackathon project ideas]().
 
