@@ -1,17 +1,17 @@
 # Solana Season Hackathon &middot; Up to $1 million in prizes
 
-#### Bringing Blazing Speed, Low Fees, and Scalability to Decentralized Finance
+#### Jumpstart your next project on Solana & join the fastest growing ecosystem in crypto
 
-- Hackathon deadline: March 1, 2021 | 11:59pm PT
+- Hackathon dates: May 15, 2021 | 11:59pm PT
 - Type: Online and global
-- Submission form: [Official Website](https://solana.com/defi)
-- More details: [Announcement Blog Post](https://medium.com/solana-labs/announcing-the-solana-foundation-x-serum-defi-hackathon-7e34290f8262)
+- Register now: [Official Website](https://solana.com/solanaszn)
+- More details: [Announcement Blog Post]()
 
 ## Introduction
 
-Solana is a fast, low-fee, and censorship-resistant blockchain designed to enable builders to quickly deploy and scale applications to billions of users globally. The Solana Foundation has teamed up with Serum, the largest DeFi project in the ecosystem, to host a hackathon focused on allowing developers to experiment and leverage our technology to create a plethora of DeFi (Decentralized Finance) applications.
+Solana is a fast, low-fee, and censorship-resistant blockchain designed to enable builders to quickly deploy and scale applications to billions of users globally. The Solana Foundation is excited to host a hackathon focused on allowing developers to experiment and leverage the Solana blockchain to create a plethora of crypto projects spanning DeFi (Decentralized Finance), NFTs, and Web 3.
 
-As long as you have an Internet connection, you're invited to join the global hackathon! Combining Serum's infrastructure and tooling with Solana’s core features gives hackers an open design space to expand the overall DeFi ecosystem. While participants are encouraged to build novel DeFi apps, hackers can build infrastructure or any tool they believe will have an impact on the ecosystem. The only requirement is that teams must incorporate Solana into their project in some way. Take a look at this list of [DeFi ideas for inspiration](https://github.com/solana-labs/defi-hackathon/blob/main/ideas.md).
+As long as you have an Internet connection, you're invited to join the global hackathon! In addition, if you are located in China, Eastern Europe (CIS region), India, or Brazil, you're eligible for regional prizes (see prize tracks below). While participants are encouraged to build novel crypto apps, hackers can build infrastructure or any tool they believe will have an impact on the Solana ecosystem. The only requirement is that teams must incorporate Solana into their project in some way. Take a look at this list of [hackathon project ideas]().
 
 ## Get Started Building
 
@@ -19,13 +19,13 @@ As long as you have an Internet connection, you're invited to join the global ha
 - [Solana Dapp Scaffolding](https://github.com/solana-labs/dapp-scaffold)
 - [Intro to Programming on Solana](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/)
 - [Serum Developer Resources](https://serum-academy.com/en/developer-resources/)
-- [Framework for building on Serum](https://github.com/project-serum/anchor)
+- [Guide for building on Serum](https://github.com/project-serum/anchor)
 - [Solana Cluster Overview](https://docs.solana.com/cluster/overview)
 - [Getting started with Rust](https://www.rust-lang.org/learn)
 - [Solana Program Library Documentation](https://spl.solana.com/)
 - [Hello World Example](https://github.com/solana-labs/example-helloworld)
 - [Discord Support Chat](https://discord.gg/uNHzdyZRMB): Live technical support and help
-- [Find a teammate directory](https://airtable.com/shrKQ0KdkKjoejQex/tblRhtznXGRg28mnJ)
+- [Find a teammate directory]()
 
 ## Other Resources + DeFi Building Blocks
 
@@ -33,9 +33,8 @@ As long as you have an Internet connection, you're invited to join the global ha
 - [Borrow/Lend Reference Implementation](https://github.com/solana-labs/oyster-lending)
 - [Margin Reference Implementation](https://github.com/solana-labs/oyster-margin)
 - [Wormhole Documentation: Ethereum<>Solana bi-directional bridge](https://github.com/certusone/wormhole)
-- [Chainlink<>Solana Oracle Implementation](https://github.com/czl1378/solana-flux-aggregator)
+- [Chainlink<>Solana Oracle Implementation](https://github.com/octopus-network/solana-flux-aggregator)
 - [Full Stack dApp Development Environment by Decentology](https://dappstarter.decentology.com/)
-- [Run your own Serum DEX](https://serum-academy.com/en/dex-list/)
 - [List tokens on the Serum DEX](https://serum-academy.com/en/add-market/)
 - [Solana Development Tutorial](https://solongwallet.medium.com/solana-development-tutorial-things-you-should-know-before-structuring-your-code-807f0e2ee43)
 
@@ -57,7 +56,17 @@ Once winners have been selected, the top 9 teams will have the opportunity to co
 
 | Place                                  | Prize                                   |
 | -------------------------------------- | --------------------------------------- |
-| Grand Prize Winner                     | $200k in seed funding                   |
+| Grand Prize Winner                     | $30k in seed funding                   |
+| First Place Winners                    | 2 winners up to $50k each + Solana Swag |
+| Second Place Winners                   | 3 teams of $20k each + Solana Swag      |
+| Third Place Winners                    | 4 teams of $10k each + Solana Swag      |
+| Community Choice Prize                 | $5k + Solana Swag                       |
+| Torus Prize                            | $2k                                     |
+| All participants that submit a project | $100                                    |
+
+| Place                                  | Prize                                   |
+| -------------------------------------- | --------------------------------------- |
+| Grand Prize Winner                     | $30k in seed funding                   |
 | First Place Winners                    | 2 winners up to $50k each + Solana Swag |
 | Second Place Winners                   | 3 teams of $20k each + Solana Swag      |
 | Third Place Winners                    | 4 teams of $10k each + Solana Swag      |
@@ -67,13 +76,13 @@ Once winners have been selected, the top 9 teams will have the opportunity to co
 
 ## Discord Discussion Channels
 
-- [#hackathon-announcements](https://discord.gg/PDy4D4EZw9): Announcements from the Solana Foundation and Serum team
-- [#hackathon-questions](https://discord.gg/uNHzdyZRMB): Technical support and help from Solana and Serum Engineers
+- [#hackathon-announcements](https://discord.gg/PDy4D4EZw9): Announcements from the hackathon organizers
+- [#hackathon-questions](https://discord.gg/uNHzdyZRMB): Technical support and help from Solana engineers
 - [#hackathon-team-formation](https://discord.gg/gYAEpBJace): Introduce yourself, find a team, or seek additional team members
 
 ## Code of Conduct
 
-The Solana x Serum DeFi Hackathon welcomes any one from around the world to participate and is intended to create an inclusive environment for building, collaboration, creativity, and impact. We value the participation of each member of the community and want everyone involved to be respected. Accordingly, hackathon administrators, judges, and participants are expected to adhere to the Code of Conduct outlined below for the duration of the hackathon. Event organizers will enforce this code and have the right to disqualify any individual or team that breaks the code.
+The Soalna Season Hackathon welcomes any one from around the world to participate and is intended to create an inclusive environment for building, collaboration, creativity, and impact. We value the participation of each member of the community and want everyone involved to be respected. Accordingly, hackathon administrators, judges, and participants are expected to adhere to the Code of Conduct outlined below for the duration of the hackathon. Event organizers will enforce this code and have the right to disqualify any individual or team that breaks the code.
 
 - Be Respectful: Be kind to all who participate in the event. Do not insult or put down other attendees.
 
@@ -87,7 +96,7 @@ The Solana x Serum DeFi Hackathon welcomes any one from around the world to part
 
 ## Legal Disclaimer
 
-The Solana Foundation x Serum DeFi Hackathon is a competition where projects will be evaluated by judges on their technological merits without consideration of legal viability. Participants in the Hackathon will create software solely for purposes of evaluation by judges as part of a competition and not for commercial deployment or release as part of the Hackathon.All participants must comply with applicable laws and regulations when releasing any software that they develop as part of the Hackathon.
+The Solana Season Hackathon is a competition where projects will be evaluated by judges on their technological merits without consideration of legal viability. Participants in the Hackathon will create software solely for purposes of evaluation by judges as part of a competition and not for commercial deployment or release as part of the Hackathon.All participants must comply with applicable laws and regulations when releasing any software that they develop as part of the Hackathon.
 
 The Hackathon ideas and developer resources that Solana Foundation (“SF”) provides are for educational and inspirational purposes only. SF does not encourage, induce or sanction the deployment of any such applications in violation of applicable laws or regulations. SF does not encourage, induce or sanction the deployment, integration or use of any such applications (including the code comprising the Solana blockchain protocol) in violation of applicable laws or regulations and hereby prohibits any such deployment, integration or use. This includes use of any such applications by the reader (a) in violation of export control or sanctions laws of the United States or any other applicable jurisdiction, (b) if the reader is located in or ordinarily resident in a country or territory subject to comprehensive sanctions administered by the U.S. Office of Foreign Assets Control (OFAC), (c) if the reader is or is working on behalf of a Specially Designated National (SDN) or a person subject to similar blocking or denied party prohibitions, or (d) in violation of the Commodities and Exchange Act.
 
