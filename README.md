@@ -59,7 +59,7 @@ All prize amounts will be distributed in USDC-SPL.
 
 | Global                                  | Prize                                   |
 | -------------------------------------- | --------------------------------------- |
-| Grand Prize Winner                     | $30k + all expenses trip paid to Solana's conference in Lisbon, Portugal                 |
+| Grand Prize Winner                     | $30k + all expenses paid trip to Solana's conference in Lisbon, Portugal                 |
 | DeFi                    | 1st Place $20k, 2nd place $15k, 3rd place $10k |
 | NFTs                   | 1st Place $20k, 2nd place $15k, 3rd place $10k |
 | Web3                   | 1st Place $20k, 2nd place $15k, 3rd place $10k |
