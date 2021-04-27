@@ -1,4 +1,4 @@
-# Solana Season Hackathon &middot; Up to $1 million in prizes
+# Solana Season Hackathon &middot; Up to $1 million in prizes & seed funding
 
 #### Jumpstart your next project on Solana & join the fastest growing ecosystem in crypto
 
