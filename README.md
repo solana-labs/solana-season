@@ -73,19 +73,17 @@ All prize amounts will be distributed in USDC-SPL.
 | Community Choice Prize                 | $5k + Solana Swag                       |
 | Serum's Prize                            | $25k                                     |
 | Kin's Prize                            | $25k                                     |
-| Raydium's Prize                            | $10k                                     |
+| Raydium's Prize                            | $3k in RAY tokens                               |
 | Pyth's Prize                            | $25k                                     |
 
 #### Regional Prize Pools
 
 | China: Serum + Raydium Track                                  | Prize                                   |
 | -------------------------------------- | --------------------------------------- |
-| 1st Place                     | $25k                  |
-| 2nd Place                    | $15k |
+| 1st Place                     | $40k                  |
+| 2nd Place                    | $25k |
 | 3rd Place                   | $10k      |
 | Dorahacks Quadractic Vote Prize               | $50k                  |
-| Serum Prize                            | $50k                                     |
-| Raydium Prize                            | $20k                                     |
 
 | Eastern Europe: Hacken Track                                  | Prize                                   |
 | -------------------------------------- | --------------------------------------- |
@@ -95,6 +93,7 @@ All prize amounts will be distributed in USDC-SPL.
 | Serum Prize                            | $50k                                     |
 | Velas Prize                            | $20k                                     |
 | HAPI Prize                            | $20k                                     |
+| Akash Prize                            | $15k                                     |
 
 | India: CoinDCX + Devfolio Track                                  | Prize                                   |
 | -------------------------------------- | --------------------------------------- |
