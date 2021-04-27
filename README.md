@@ -73,6 +73,7 @@ All prize amounts will be distributed in USDC-SPL.
 | Community Choice Prize                 | $5k + Solana Swag                       |
 | Serum's Prize                            | $25k                                     |
 | Kin's Prize                            | $25k                                     |
+| Our Network's Prize                            | $25k                                     |
 | Raydium's Prize                            | $3k in RAY tokens                               |
 | Pyth's Prize                            | $25k                                     |
 
