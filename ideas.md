@@ -71,7 +71,7 @@ A web-based tool through which any user can query all data on the Solana blockch
 ** Paid users could hook an API to any publicly available query and get results
 
 * Dashboarding functionality
-** Curated queries shared in a visualized form
+  * Curated queries shared in a visualized form
 *** The team would write several popularly requested queries to launch this product to expedite the kick-off
 ** Charts that should be launched with
 *** Number of daily transactions on Solana
