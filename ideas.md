@@ -64,17 +64,17 @@ A web-based tool through which any user can query all data on the Solana blockch
 
 
 * Any user would be able to write a query
-** free users would have to open source their queries so others could work
-** paid users would have the ability to write queries privately
+  * free users would have to open source their queries so others could work
+  * paid users would have the ability to write queries privately
 
 * Automatic hourly updates on the most viewed queries and charts
-** Paid users could hook an API to any publicly available query and get results
+  * Paid users could hook an API to any publicly available query and get results
 
 * Dashboarding functionality
   * Curated queries shared in a visualized form
-*** The team would write several popularly requested queries to launch this product to expedite the kick-off
-** Charts that should be launched with
-*** Number of daily transactions on Solana
+  * The team would write several popularly requested queries to launch this product to expedite the kick-off
+  * Charts that should be launched with
+    * Number of daily transactions on Solana
 *** Number of daily active Solana addresses
 *** Number of new daily Solana addresses
 *** Daily volume of SOL transfers
