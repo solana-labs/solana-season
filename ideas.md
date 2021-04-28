@@ -75,21 +75,21 @@ A web-based tool through which any user can query all data on the Solana blockch
   * The team would write several popularly requested queries to launch this product to expedite the kick-off
   * Charts that should be launched with
     * Number of daily transactions on Solana
-*** Number of daily active Solana addresses
-*** Number of new daily Solana addresses
-*** Daily volume of SOL transfers
-*** Daily fees of all SOL/SPL transfers
-*** Daily median USD cost of SOL&SPL transfer
-*** Daily USD revenue of Solana stakers
-*** Daily Solana addresses with balance over $X ($1k, $10k, $100k, $1M, $10M)
-*** Total monthly DEX trading volume on Solana (with DEX splits - Serum&Raydium etc.)
-*** Number of monthly unique liquidity providers on Serum
-*** Number of monthly unique trading addresses on Serum
-*** Number of monthly trades on Serum
-*** Total number of unique addresses interacting with Solana DeFi apps with splits by each project
-*** Total stacked daily TVL of all Solana DeFi projects
-*** Daily outstanding debt of Jet Protocol
-*** Total daily supply of stablecoins issued on Solana
+    * Number of daily active Solana addresses 
+    * Number of new daily Solana addresses
+    * Daily volume of SOL transfers
+    * Daily fees of all SOL/SPL transfers
+    * Daily median USD cost of SOL&SPL transfer
+    * Daily USD revenue of Solana stakers
+    * Daily Solana addresses with balance over $X ($1k, $10k, $100k, $1M, $10M
+    * Total monthly DEX trading volume on Solana (with DEX splits - Serum&Raydium etc.)
+    * Number of monthly unique liquidity providers on Serum
+    * Number of monthly unique trading addresses on Serum
+    * Number of monthly trades on Serum
+    * Total number of unique addresses interacting with Solana DeFi apps with splits by each project
+    * Total stacked daily TVL of all Solana DeFi projects
+    * Daily outstanding debt of Jet Protocol
+    * Total daily supply of stablecoins issued on Solana
 
 ---------- 
 ** The Solana Season Hackathon is a competition where projects will be evaluated by judges on their technological merits without consideration of legal viability. Participants in the Hackathon will create software solely for purposes of evaluation by judges as part of a competition and not for commercial deployment or release as part of the Hackathon.All participants must comply with applicable laws and regulations when releasing any software that they develop as part of the Hackathon.
