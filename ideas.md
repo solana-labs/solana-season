@@ -1,6 +1,6 @@
 # Solana Season Hackathon Project Ideas
 
-Hackathon participants are free to explore and build projects that span a variety of use cases across NFTs, DeFi, and Web3.** The following is a list of interesting possible ideas sourced from the Solana community, Project Serum, and the participating judges/speakers. One of the beauties of utilizing DeFi’s composable building blocks is that they can be remixed and modified to build entirely new financial services. So take a look if you or your team is in need of some inspiration! 
+Hackathon participants are free to explore and build projects that span a variety of use cases across NFTs, DeFi, and Web3.** The following is a list of interesting possible ideas sourced from the Solana community and the participating judges/speakers. One of the beauties of utilizing DeFi’s composable building blocks is that they can be remixed and modified to build entirely new financial services. So take a look if you or your team is in need of some inspiration! 
 
 * Serum Ideas: The Serum team has produced an exclusive Serum-related list that can be found here: https://serum-academy.com/en/serum-project-ideas/project-ideas/ 
 * Lending front end and primitive: Money market lending protocol native to Solana (akin to Compound or Aave)
