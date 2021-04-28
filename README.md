@@ -5,13 +5,13 @@
 - Hackathon dates: May 15 - June 7, 2021
 - Type: Online and global
 - Register now: [Official Website](https://solana.com/solanaszn)
-- More details: [Announcement Blog Post]()
+- More details: [Announcement Blog Post](https://solana.com/news/announcing-solana-season/)
 
 ## Introduction
 
 Solana is a fast, low-fee, and censorship-resistant blockchain designed to enable builders to quickly deploy and scale applications to billions of users globally. The Solana Foundation is excited to host its 3rd virtual hackathon focused on allowing developers to experiment and leverage the Solana blockchain to create a plethora of projects spanning DeFi (Decentralized Finance), NFTs, and Web3.
 
-As long as you have an Internet connection, you're invited to join the global hackathon! In addition, if you are located in China, Eastern Europe (CIS region), India, or Brazil, you're eligible for regional prizes (see prize tracks below). While participants are encouraged to build novel crypto apps, hackers can build infrastructure or any tool they believe will have an impact on the Solana ecosystem. The only requirement is that teams must incorporate Solana into their project in some way. Take a look at this list of [hackathon project ideas]().
+As long as you have an Internet connection, you're invited to join the global hackathon! In addition, if you are located in China, Eastern Europe (CIS region), India, or Brazil, you're eligible for regional prizes (see prize tracks below). While participants are encouraged to build novel crypto apps, hackers can build infrastructure or any tool they believe will have an impact on the Solana ecosystem. The only requirement is that teams must incorporate Solana into their project in some way. Take a look at this list of [hackathon project ideas](https://github.com/solana-labs/solana-season/blob/master/ideas.md).
 
 Throughout the registration period and hackathon, there will be live-streamed presentations, workshops, and panels on a variety of crypto-related topics. See the full schedule here, and make sure to join a few sessions on Twitch!
 
@@ -45,7 +45,7 @@ Throughout the registration period and hackathon, there will be live-streamed pr
 
 ## Engage with the Community
 - [Discord Support Chat](https://discord.gg/uNHzdyZRMB): Live technical support and help
-- [Find a teammate directory]()
+- [Find a teammate directory](https://airtable.com/shrGAmy0TzK9h73Us)
 
 ## Judging
 
