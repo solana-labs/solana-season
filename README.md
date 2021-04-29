@@ -29,6 +29,7 @@ Throughout the registration period and hackathon, there will be live-streamed pr
 
 ### Examples and Reference Implementations
 - [Hello World Example](https://github.com/solana-labs/example-helloworld)
+- [Serum DEX Example](https://github.com/project-serum/anchor/blob/master/examples/swap/programs/swap/src/lib.rs)
 - [Automated Market Maker + Swap Reference Implementation](https://github.com/solana-labs/oyster-swap)
 - [Borrow/Lend Reference Implementation](https://github.com/solana-labs/oyster-lending)
 - [Margin Reference Implementation](https://github.com/solana-labs/oyster-margin)
