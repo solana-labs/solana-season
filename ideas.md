@@ -6,6 +6,8 @@ Hackathon participants are free to explore and build projects that span a variet
 * Lending front end and primitive: Money market lending protocol native to Solana (akin to Compound or Aave)
 * Cross-Chain Lending: A lending protocol that immediately provides liquidity for assets transferred cross-chain, utilizing the Wormhole bridge - such that users don't need to wait for the cross-chain assets to be fully confirmed on both chains - in return for a fee
 * Fixed-Rate Loans: Where users can take out a fixed-rate loan on an Ethereum Lending/Borrowing protocol that is enabled by an on-chain interest rate swap order book on Serum
+* Airdrops: build an open source service that enables SOL airdrops for first time Solana users using different rate-limiting mechanisms (Twitter handles for example: https://faucet.rinkeby.io/).
+* Contract Method Name Registry: Create a standard that allows dApp developers to register their contract method names in a human readable way. Super useful for wallets and brings the whole UX of the space forward. Similar to https://docs.metamask.io/guide/registering-function-names.html#verify.
 * Censorship resistant Wallstreetbets
 * Basis Trade Stablecoin
 * Make use of Coingecko API in Solana dapps: https://www.coingecko.com/en/api
