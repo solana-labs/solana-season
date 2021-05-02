@@ -75,7 +75,7 @@ All prize amounts will be distributed in USDC-SPL.
 | Serum's Prize                            | $25k                                     |
 | Kin's Prize                            | $25k                                     |
 | Our Network's Prize                            | $25k                                     |
-| Raydium's Prize                            | $3k in RAY tokens                               |
+| Raydium's Prize                            | 3k RAY tokens                               |
 | Pyth's Prize                            | $25k                                     |
 
 #### Regional Prize Pools
