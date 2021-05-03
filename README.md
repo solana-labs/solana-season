@@ -109,6 +109,18 @@ All prize amounts will be distributed in USDC-SPL.
 | 2nd Place                    | $7k |
 | 3rd Place                   | $3k      |
 
+| Africa: Blockchain Nigeria + Bundle Track                                  | Prize                                   |
+| -------------------------------------- | --------------------------------------- |
+| 1st Place                     | $15k                  |
+| 2nd Place                    | $7k |
+| 3rd Place                   | $3k      |
+
+| Vietnam: Kyber + Coin98 Track                                  | Prize                                   |
+| -------------------------------------- | --------------------------------------- |
+| 1st Place                     | $15k                  |
+| 2nd Place                    | $7k |
+| 3rd Place                   | $3k      |
+
 ## Discord Discussion Channels
 
 - [#hackathon-announcements](https://discord.gg/PDy4D4EZw9): Announcements from the hackathon organizers
