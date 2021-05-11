@@ -73,10 +73,10 @@ All prize amounts will be distributed in USDC-SPL.
 | Web3                   | 1st Place $20k, 2nd place $10k, 3rd place $5k |
 | Community Choice Prize                 | $5k + Solana Swag                       |
 | Serum's Prize                            | $25k                                     |
-| Kin's Prize                            | $25k                                     |
+| [Kin's Prize](https://github.com/kinecosystem/kin-solana-hackathon)                            | $25k                                     |
 | Our Network's Prize                            | $25k                                     |
 | Raydium's Prize                            | 3k RAY tokens                               |
-| Star Atlas' Prize                            | $25k                                     |
+| [Star Atlas' Prize](https://github.com/staratlasmeta/star-atlas-arcade)                            | $25k                                     |
 | Orca's Prize                            | $5k                                     |
 | Pyth's Prize                            | $25k                                     |
 
