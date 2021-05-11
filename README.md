@@ -76,7 +76,7 @@ All prize amounts will be distributed in USDC-SPL.
 | Kin's Prize                            | $25k                                     |
 | Our Network's Prize                            | $25k                                     |
 | Raydium's Prize                            | 3k RAY tokens                               |
-| Star Atlas's Prize                            | $25k                                     |
+| Star Atlas' Prize                            | $25k                                     |
 | Orca's Prize                            | $5k                                     |
 | Pyth's Prize                            | $25k                                     |
 
