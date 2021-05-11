@@ -18,16 +18,19 @@ Throughout the registration period and hackathon, there will be live-streamed pr
 ## Get Started Building
 
 ### Solana Docs
+
 - [Solana Docs - Home](https://docs.solana.com/)
 - [Solana Docs - Programming Model](https://docs.solana.com/developing/programming-model/overview)
 - [Solana Program Library Docs](https://spl.solana.com/)
 - [Wormhole Documentation: Ethereum<>Solana bi-directional bridge](https://github.com/certusone/wormhole)
 
 ### Walkthroughs
+
 - [Intro to Programming on Solana](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/)
 - [Development Tutorial by Solong](https://solongwallet.medium.com/solana-development-tutorial-things-you-should-know-before-structuring-your-code-807f0e2ee43)
 
 ### Examples and Reference Implementations
+
 - [Hello World Example](https://github.com/solana-labs/example-helloworld)
 - [Serum DEX Example](https://github.com/project-serum/anchor/blob/master/examples/swap/programs/swap/src/lib.rs)
 - [Automated Market Maker + Swap Reference Implementation](https://github.com/solana-labs/oyster-swap)
@@ -36,15 +39,18 @@ Throughout the registration period and hackathon, there will be live-streamed pr
 - [Chainlink<>Solana Oracle Implementation](https://github.com/octopus-network/solana-flux-aggregator)
 
 ### Development Frameworks
+
 - [Solana Dapp Scaffolding](https://github.com/solana-labs/dapp-scaffold)
 - [Full Stack dApp Development Environment by Decentology](https://dappstarter.decentology.com/)
 
 ### Project Serum Resources
+
 - [Serum Developer Resources](https://serum-academy.com/en/developer-resources/)
 - [List tokens on the Serum DEX](https://serum-academy.com/en/add-market/)
 - [Anchor Framework by Project Serum](https://github.com/project-serum/anchor)
 
 ## Engage with the Community
+
 - [Discord Support Chat](https://discord.gg/uNHzdyZRMB): Live technical support and help
 - [Find a teammate directory](https://airtable.com/shrGAmy0TzK9h73Us)
 
@@ -60,68 +66,69 @@ Participants may submit a maximum of 1 project by the hackathon deadline. Once a
 
 After judges complete individual evaluations, the hackathon organizers will discuss with the judges to choose the winners based on the project's weighted scores. Winners of the event will be announced shortly after the end of the hackathon.
 
-There are 3 global prize tracks: DeFi, NFTs, and Web3. There will be a 1st, 2nd, and 3rd place winner in each of those categories. In addition, there are sponsored prizes by supporting projects including Serum, Kin, Raydium, and Pyth for teams that best integrate with their respective technologies. And finally, as mentioned above, there are regional prize pools for teams submitting from China, Eastern Europe, India, Africa, Vietnam, and Brazil. 
+There are 3 global prize tracks: DeFi, NFTs, and Web3. There will be a 1st, 2nd, and 3rd place winner in each of those categories. In addition, there are sponsored prizes by supporting projects including Serum, Kin, Raydium, and Pyth for teams that best integrate with their respective technologies. And finally, as mentioned above, there are regional prize pools for teams submitting from China, Eastern Europe, India, Africa, Vietnam, and Brazil.
 
 ## Prizes
+
 All prize amounts will be distributed in USDC-SPL.
 
-| Global                                  | Prize                                   |
-| -------------------------------------- | --------------------------------------- |
-| Grand Prize Winner                     | $30k & airfare+tickets to Solana's conference in Lisbon, Portugal                 |
-| DeFi                    | 1st Place $20k, 2nd place $10k, 3rd place $5k |
-| NFTs                   | 1st Place $20k, 2nd place $10k, 3rd place $5k |
-| Web3                   | 1st Place $20k, 2nd place $10k, 3rd place $5k |
-| Community Choice Prize                 | $5k + Solana Swag                       |
-| Serum's Prize                            | $25k                                     |
-| [Kin's Prize](https://github.com/kinecosystem/kin-solana-hackathon)                            | $25k                                     |
-| Our Network's Prize                            | $25k                                     |
-| Raydium's Prize                            | 3k RAY tokens                               |
-| [Star Atlas' Prize](https://github.com/staratlasmeta/star-atlas-arcade)                            | $25k                                     |
-| Orca's Prize                            | $5k                                     |
-| Pyth's Prize                            | $25k                                     |
+| Global                                                                  | Prize                                                             |
+| ----------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| Grand Prize Winner                                                      | $30k & airfare+tickets to Solana's conference in Lisbon, Portugal |
+| DeFi                                                                    | 1st Place $20k, 2nd place $10k, 3rd place $5k                     |
+| NFTs                                                                    | 1st Place $20k, 2nd place $10k, 3rd place $5k                     |
+| Web3                                                                    | 1st Place $20k, 2nd place $10k, 3rd place $5k                     |
+| Community Choice Prize                                                  | $5k + Solana Swag                                                 |
+| Serum's Prize                                                           | $25k                                                              |
+| [Kin's Prize](https://github.com/kinecosystem/kin-solana-hackathon)     | $25k                                                              |
+| Our Network's Prize                                                     | $25k                                                              |
+| Raydium's Prize                                                         | 3k RAY tokens                                                     |
+| [Star Atlas' Prize](https://github.com/staratlasmeta/star-atlas-arcade) | $25k                                                              |
+| Orca's Prize                                                            | $5k                                                               |
+| Pyth's Prize                                                            | $25k                                                              |
 
 #### Regional Prize Pools
 
-| China: Serum + Raydium Track                                  | Prize                                   |
-| -------------------------------------- | --------------------------------------- |
-| 1st Place                     | $40k                  |
-| 2nd Place                    | $25k |
-| 3rd Place                   | $10k      |
-| Dorahacks Quadractic Vote Prize               | $50k                  |
+| China: Serum + Raydium Track    | Prize |
+| ------------------------------- | ----- |
+| 1st Place                       | $40k  |
+| 2nd Place                       | $25k  |
+| 3rd Place                       | $10k  |
+| Dorahacks Quadractic Vote Prize | $50k  |
 
-| Eastern Europe: Hacken Track                                  | Prize                                   |
-| -------------------------------------- | --------------------------------------- |
-| 1st Place                     | $25k                  |
-| 2nd Place                    | $15k |
-| 3rd Place                   | $10k      |
-| Serum Prize                            | $50k                                     |
-| Velas Prize                            | $20k                                     |
-| [HAPI Prize](https://docs.google.com/document/d/1x1dttIurfxB_3yWPbvVnOJ6aydr8mEx5xK81TNk1Veo/edit)                            | $20k                                     |
-| [Akash Prize](https://docs.google.com/document/d/1DYsAh591WUpr0gG5sKn4zn965e6kPY5AMbkitMLfPzs/edit)                            | $15k                                     |
+| Eastern Europe: Hacken Track                                                                        | Prize |
+| --------------------------------------------------------------------------------------------------- | ----- |
+| 1st Place                                                                                           | $25k  |
+| 2nd Place                                                                                           | $15k  |
+| 3rd Place                                                                                           | $10k  |
+| Serum Prize                                                                                         | $50k  |
+| Velas Prize                                                                                         | $20k  |
+| [HAPI Prize](https://docs.google.com/document/d/1x1dttIurfxB_3yWPbvVnOJ6aydr8mEx5xK81TNk1Veo/edit)  | $20k  |
+| [Akash Prize](https://docs.google.com/document/d/1DYsAh591WUpr0gG5sKn4zn965e6kPY5AMbkitMLfPzs/edit) | $15k  |
 
-| India: CoinDCX + Devfolio Track                                  | Prize                                   |
-| -------------------------------------- | --------------------------------------- |
-| 1st Place                     | $25k                  |
-| 2nd Place                    | $15k |
-| 3rd Place                   | $10k      |
+| India: CoinDCX + Devfolio Track | Prize |
+| ------------------------------- | ----- |
+| 1st Place                       | $25k  |
+| 2nd Place                       | $15k  |
+| 3rd Place                       | $10k  |
 
-| Brazil: BRZ Track                                  | Prize                                   |
-| -------------------------------------- | --------------------------------------- |
-| 1st Place                     | $15k                  |
-| 2nd Place                    | $7k |
-| 3rd Place                   | $3k      |
+| Brazil: BRZ Track | Prize |
+| ----------------- | ----- |
+| 1st Place         | $15k  |
+| 2nd Place         | $7k   |
+| 3rd Place         | $3k   |
 
-| Africa: Blockchain Nigeria + Bundle Track                                  | Prize                                   |
-| -------------------------------------- | --------------------------------------- |
-| 1st Place                     | $15k                  |
-| 2nd Place                    | $7k |
-| 3rd Place                   | $3k      |
+| Africa: Blockchain Nigeria + Bundle Track | Prize |
+| ----------------------------------------- | ----- |
+| 1st Place                                 | $15k  |
+| 2nd Place                                 | $7k   |
+| 3rd Place                                 | $3k   |
 
-| Vietnam: Kyber + Coin98 Track                                  | Prize                                   |
-| -------------------------------------- | --------------------------------------- |
-| 1st Place                     | $15k                  |
-| 2nd Place                    | $7k |
-| 3rd Place                   | $3k      |
+| Vietnam: Kyber + Coin98 Track | Prize |
+| ----------------------------- | ----- |
+| 1st Place                     | $15k  |
+| 2nd Place                     | $7k   |
+| 3rd Place                     | $3k   |
 
 ## Discord Discussion Channels
 
