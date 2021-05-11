@@ -60,7 +60,7 @@ Participants may submit a maximum of 1 project by the hackathon deadline. Once a
 
 After judges complete individual evaluations, the hackathon organizers will discuss with the judges to choose the winners based on the project's weighted scores. Winners of the event will be announced shortly after the end of the hackathon.
 
-There are 3 global prize tracks: DeFi, NFTs, and Web3. There will be a 1st, 2nd, and 3rd place winner in each of those categories. In addition, there are sponsored prizes by supporting projects including Serum, Kin, Raydium, and Pyth for teams that best integrate with their respective technologies. And finally, as mentioned above, there are regional prize pools for teams submitting from China, Eastern Europe, India, and Brazil. 
+There are 3 global prize tracks: DeFi, NFTs, and Web3. There will be a 1st, 2nd, and 3rd place winner in each of those categories. In addition, there are sponsored prizes by supporting projects including Serum, Kin, Raydium, and Pyth for teams that best integrate with their respective technologies. And finally, as mentioned above, there are regional prize pools for teams submitting from China, Eastern Europe, India, Africa, Vietnam, and Brazil. 
 
 ## Prizes
 All prize amounts will be distributed in USDC-SPL.
