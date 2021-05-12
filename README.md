@@ -68,6 +68,8 @@ After judges complete individual evaluations, the hackathon organizers will disc
 
 There are 3 global prize tracks: DeFi, NFTs, and Web3. There will be a 1st, 2nd, and 3rd place winner in each of those categories. In addition, there are sponsored prizes by supporting projects including Serum, Kin, Raydium, and Pyth for teams that best integrate with their respective technologies. And finally, as mentioned above, there are regional prize pools for teams submitting from China, Eastern Europe, India, Africa, Vietnam, and Brazil.
 
+The project submission form will be published on or about June 1. It will require projects to provide a brief description of the project, a logo/image, a list of teammates, the project name, a link to the GitHub /gitlab repo, and a slide deck or video presentation.
+
 ## Prizes
 
 All prize amounts will be distributed in USDC-SPL.
