@@ -24,6 +24,11 @@ Throughout the registration period and hackathon, there will be live-streamed pr
 - [Solana Program Library Docs](https://spl.solana.com/)
 - [Wormhole Documentation: Ethereum<>Solana bi-directional bridge](https://github.com/certusone/wormhole)
 
+### RPC Endpoints
+
+- [Devnet Endpoint and Rate Limits](https://docs.solana.com/cluster/rpc-endpoints#devnet)
+- [Testnet Endpoint and Rate Limits](https://docs.solana.com/cluster/rpc-endpoints#testnet)
+
 ### Walkthroughs
 
 - [Intro to Programming on Solana](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/)
