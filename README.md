@@ -59,6 +59,10 @@ Throughout the registration period and hackathon, there will be live-streamed pr
 - [Discord Support Chat](https://discord.gg/uNHzdyZRMB): Live technical support and help
 - [Find a teammate directory](https://airtable.com/shrGAmy0TzK9h73Us)
 
+## Submissions
+
+A submission form will be availble around June 1. It will require a description of the project, project logo/image, a list of teammates, project name, a link to the GitHub /gitlab repo, and a slide deck or video presentation.
+
 ## Judging
 
 Participants may submit a maximum of 1 project by the hackathon deadline. Once all submissions are collected, Solana will distribute a list to the judges for the evaluation process. Teams and individuals are evaluated on the following criteria:
