@@ -29,6 +29,11 @@ Throughout the registration period and hackathon, there will be live-streamed pr
 - [Devnet Endpoint and Rate Limits](https://docs.solana.com/cluster/rpc-endpoints#devnet)
 - [Testnet Endpoint and Rate Limits](https://docs.solana.com/cluster/rpc-endpoints#testnet)
 
+### Video
+
+- [Solana Tutorial | Solana for Developers](https://www.youtube.com/watch?v=qNIhClYDjR8)
+- [Intro to Solana programming model - Technical Workshop](https://www.twitch.tv/videos/1021435633)
+
 ### Walkthroughs
 
 - [Intro to Programming on Solana](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/)
