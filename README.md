@@ -150,12 +150,6 @@ All prize amounts will be distributed in USDC-SPL.
 | 2nd Place                     | $7k   |
 | 3rd Place                     | $3k   |
 
-## Discord Discussion Channels
-
-- [#hackathon-announcements](https://discord.gg/PDy4D4EZw9): Announcements from the hackathon organizers
-- [#hackathon-questions](https://discord.gg/uNHzdyZRMB): Technical support and help from Solana engineers
-- [#hackathon-team-formation](https://discord.gg/gYAEpBJace): Introduce yourself, find a team, or seek additional team members
-
 ## Code of Conduct
 
 The Solana Season Hackathon welcomes any one from around the world to participate and is intended to create an inclusive environment for building, collaboration, creativity, and impact. We value the participation of each member of the community and want everyone involved to be respected. Accordingly, hackathon administrators, judges, and participants are expected to adhere to the Code of Conduct outlined below for the duration of the hackathon. Event organizers will enforce this code and have the right to disqualify any individual or team that breaks the code.
