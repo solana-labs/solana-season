@@ -105,6 +105,7 @@ All prize amounts will be distributed in USDC-SPL.
 | Raydium's Prize                                                         | 3k RAY tokens                                                     |
 | [Star Atlas' Prize](https://github.com/staratlasmeta/star-atlas-arcade) | $25k                                                              |
 | Orca's Prize                                                            | $5k                                                               |
+| Media Foundation's Prize                                                | $30k                                                              |
 | Pyth's Prize                                                            | $25k                                                              |
 
 #### Regional Prize Pools
