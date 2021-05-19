@@ -37,6 +37,7 @@ Throughout the registration period and hackathon, there will be live-streamed pr
 
 - [Solana Tutorial | Solana for Developers](https://www.youtube.com/watch?v=qNIhClYDjR8)
 - [Intro to Solana programming model - Technical Workshop](https://www.twitch.tv/videos/1021435633)
+- [Programming Solana Smart Contracts](https://www.youtube.com/watch?v=i6Ycr5nhjH8)
 
 ### Walkthroughs
 
