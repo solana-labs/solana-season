@@ -4,8 +4,7 @@
 
 - Hackathon dates: May 15 - June 7, 2021
 - Type: Online and global
-- Register now: [Official Website](https://solana.com/solanaszn)
-- More details: [Announcement Blog Post](https://solana.com/news/announcing-solana-season/)
+- More details: [Official Website](https://solana.com/solanaszn)
 
 ## Introduction
 
