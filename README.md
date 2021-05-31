@@ -126,6 +126,7 @@ All prize amounts will be distributed in USDC-SPL.
 | Velas Prize                                                                                         | $20k  |
 | [HAPI Prize](https://docs.google.com/document/d/1x1dttIurfxB_3yWPbvVnOJ6aydr8mEx5xK81TNk1Veo/edit)  | $20k  |
 | [Akash Prize](https://docs.google.com/document/d/1DYsAh591WUpr0gG5sKn4zn965e6kPY5AMbkitMLfPzs/edit) | $15k  |
+| [Spacemind Prize](https://docs.google.com/document/d/1-sX8xu8Nm0vtPj56jwGvMYjkCSkf2X_smHK2IkUEBJQ/edit) | $15k | 
 
 | India: CoinDCX + Devfolio Track | Prize |
 | ------------------------------- | ----- |
