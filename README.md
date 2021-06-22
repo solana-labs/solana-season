@@ -110,7 +110,7 @@ All prize amounts will be distributed in USDC-SPL.
 
 #### Regional Prize Pools
 
-| China: Serum + Raydium Track    | Prize |
+| China+Taiwan: Serum + Raydium Track    | Prize |
 | ------------------------------- | ----- |
 | 1st Place                       | $40k  |
 | 2nd Place                       | $25k  |
@@ -136,9 +136,8 @@ All prize amounts will be distributed in USDC-SPL.
 
 | Brazil: BRZ Track | Prize |
 | ----------------- | ----- |
-| 1st Place         | $15k  |
-| 2nd Place         | $7k   |
-| 3rd Place         | $3k   |
+| Overall Winner       | $15k  |
+
 
 | Africa: Blockchain Nigeria + Bundle Track | Prize |
 | ----------------------------------------- | ----- |
